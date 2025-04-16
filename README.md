@@ -3,3 +3,16 @@ Many real-world Splunk deployments require sending alerts to third-party applica
 This application is designed to overcome these two challenges. It provides users with the capability to specify custom headers and define the exact request payload to be sent with their Webhook alerts.
 
 I am sharing the source code of this application so that any Splunk users can make modifications as per their use cases or use it as is. We encourage community contributions and welcome any further modifications.
+
+UI of the Alert Action
+
+![image](https://github.com/user-attachments/assets/d557c1ad-0fa2-433d-9eeb-3988afe796c3)
+
+Log messages to help troubleshoot if any problem
+
+![image](https://github.com/user-attachments/assets/eb113876-ecea-4982-92d6-d91054f1d1bf)
+
+Query to check logs
+
+index=_internal source="C:\\Program Files\\Splunk\\var\\log\\splunk\\customwebhook_alert.log" 
+
