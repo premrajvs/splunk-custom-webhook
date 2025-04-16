@@ -16,3 +16,5 @@ Query to check logs
 
 index=_internal source="C:\\Program Files\\Splunk\\var\\log\\splunk\\customwebhook_alert.log" 
 
+Splunk documentation : https://dev.splunk.com/enterprise/docs/devtools/customalertactions/
+
