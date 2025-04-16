@@ -6,7 +6,7 @@ I am sharing the source code of this application so that any Splunk users can ma
 
 UI of the Alert Action
 
-![image](https://github.com/user-attachments/assets/d557c1ad-0fa2-433d-9eeb-3988afe796c3)
+![image](https://github.com/user-attachments/assets/8c0f1349-6fea-4d28-a294-8c7aea7fc61d)
 
 Log messages to help troubleshoot if any problem
 
